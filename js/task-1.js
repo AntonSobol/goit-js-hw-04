@@ -1,7 +1,3 @@
-console.log(
-  '111oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo'
-);
-
 ('use strict');
 
 function isEnoughCapacity(products, containerSize) {

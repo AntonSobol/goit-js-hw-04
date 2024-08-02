@@ -1,7 +1,3 @@
-console.log(
-  '333oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo'
-);
-
 ('use strict');
 
 const profile = {

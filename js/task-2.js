@@ -1,8 +1,5 @@
-console.log(
-  '222oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo'
-);
-
 ('use strict');
+
 function calcAverageCalories(days) {
   let CalOfEverything = 0;
   for (let i = 0; i < days.length; i++) {
